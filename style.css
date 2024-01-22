@@ -7,9 +7,9 @@
    border-radius: 10px;
    display: inline-block;
 }
-.proyectos
+.poemario
 {
-   background-color: lightpink;
+   background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
    padding: 20px;
    width: 400px;
    height: 100px;
@@ -21,4 +21,23 @@
 input
 {
     margin-bottom: 10px;
+}
+h3 
+{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
+}
+h1
+{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h5
+{
+   font-family: 'Times New Roman', Times, serif;
+   color: aliceblue;
+
+}
+p
+{
+   font-family: Arial, Helvetica, sans-serif;
 }
